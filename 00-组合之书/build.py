@@ -12,10 +12,12 @@ PARTS=[
  ("第七部 · 六亲与应用","第7部-六亲"),
  ("第八部 · 辨伪","第8部-辨伪"),
 ]
+PUNCT = r"[，。、．,\.\(\)（）《》「」〈〉“”\"\'：:；;!?？!·×→←↑…—–]"
 def anc(h):
-    a=h.strip().lower()
-    a=re.sub(r'[，。、．,\.\(\)（）《》「」"\'：:；;!?？!·×→←↑]','',a)
-    return re.sub(r'\s+','-',a.strip())
+    """模拟 GitHub 的锚点生成:小写 → 删标点(保留空格) → 每个空格换一个连字符"""
+    a = h.strip().lower()
+    a = re.sub(PUNCT, "", a)
+    return a.replace(" ", "-")
 
 toc=[]; body=[]
 for pname,pdir in PARTS:
