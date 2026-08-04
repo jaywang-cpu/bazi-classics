@@ -63,3 +63,21 @@
 ## 免责
 
 古籍整理,供研究与阅读。内容属传统术数,不构成任何决策建议。
+
+## 配套视频 · 倪海厦《天纪》
+
+古籍读累了就先看课。倪师《天纪》全 83 集(约 44 小时):
+[B站合集 BV1S94y127Sv](https://www.bilibili.com/video/BV1S94y127Sv/)
+
+《天纪》主体是紫微斗数与阳宅,四柱只在下面这几集直接出现,先看这几集再回来读子平书最省力:
+
+| 集 | 内容 |
+|---|---|
+| [P17](https://www.bilibili.com/video/BV1S94y127Sv/?p=17) | 定盘、大限与八字格局;官杀与性格推断 |
+| [P67](https://www.bilibili.com/video/BV1S94y127Sv/?p=67) | 子平法八字:天干取天数、地支取地数,干支取数起卦 |
+| [P71](https://www.bilibili.com/video/BV1S94y127Sv/?p=71) | 四柱推命荡出先天卦;流年卦断语 |
+| [P82](https://www.bilibili.com/video/BV1S94y127Sv/?p=82) | 三才定位;流年卦干支推导与化解 |
+| [P83](https://www.bilibili.com/video/BV1S94y127Sv/?p=83) | 总结:先天大运接后天,学习心法 |
+
+按章节分好的完整目录(《天纪》83 集 + 《易经详解》47 集)在天机全书里的「视频课」页:
+https://github.com/jaywang-cpu/yijing
